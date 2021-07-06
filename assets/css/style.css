@@ -1558,4 +1558,10 @@ section {
 }
 
 @media (max-width: 575px) {
+  .img-fluid {
+    display: none;
+  }
+  .leaf{
+    display: none;
+  }
   }
